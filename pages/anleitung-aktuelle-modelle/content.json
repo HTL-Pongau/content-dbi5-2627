@@ -4,11 +4,4523 @@
       "id": "p1",
       "type": "paragraph",
       "props": {
-        "textColor": "default",
         "backgroundColor": "default",
+        "textColor": "default",
         "textAlignment": "left"
       },
-      "content": [],
+      "content": [
+        {
+          "type": "text",
+          "text": "klasse: 5AHIF\nfach: DBI\ntyp: projekt\nbereich: AM\nnr: 1\nsw: 5\nthema: Aktuelle Datenbanktechnologien – Gruppenpräsentationen mit Marp und Docker-Demo\ntags:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "492bf45e-aaba-40cf-b73c-e8b358178583",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "projekt",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "eae51bd7-e0f6-4bf4-b37c-4221e5ffc050",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "aktuelle-modelle",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "af9c7b60-db95-4972-885a-75bd27cc7698",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "pdo",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7839e6f0-f23a-4d7f-8c80-83452683ec7f",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "ao",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "59959d74-1608-4cab-9fbe-030bd23c4e95",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "praesentation",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f3fd1b67-33fe-4b70-b8e7-220133a4546c",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "41c73dc8-e0d2-44cd-b2df-134ee2556728",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 1,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Projekt: Aktuelle Datenbanktechnologien",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "af406981-53d3-488a-a5dd-4d9b5573b8ac",
+      "type": "quote",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "[!info] Kurzüberblick\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Teams:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " 2er-Gruppen (12 Gruppen)\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Arbeitszeit:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " heute 2 Stunden + Montag 2 Stunden\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Format:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Präsentation mit ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Marp",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ", vorbereitet in ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Obsidian\nLive-Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " eure Technologie läuft in ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Docker",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " am Präsentationsrechner\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Vortrag:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " ca. 8 Minuten pro Gruppe, danach ca. 2 Minuten Fragen\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Abgabe",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " im Ordner ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "praesentationen/",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " des Vaults:\nMarp-Folie: ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "G<Nummer>-<themakuerzel>.md",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " (z. B. ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "G05-cockroachdb.md",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ")\nDemo-Skript: ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "G<Nummer>-demo.sh",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " (alle Docker- und Shell-Befehle eurer Demo)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "10b49f68-bc3c-4c95-80e0-587bbc192e63",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Der Lehrplan verlangt, dass ihr ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "„aktuelle Datenmodelle und Datenbanktechnologien darlegt sowie diese auch entsprechend anwendet\"",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ". Genau das macht dieses Projekt: Jede Gruppe bearbeitet ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "eine",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " aktuelle Technologie und erklärt sie mit dem Werkzeugkasten, den ihr im Wintersemester in ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "PO (Physische Datenorganisation)",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " und ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "AO (Anfrageoptimierung)",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " aufgebaut habt.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c9ae68ce-0857-4ae7-895c-53a4c9f73e49",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Ihr werdet feststellen: Fast jedes moderne System steht auf denselben Grundlagen, die ihr bereits kennt. Seiten, B+-Bäume, Hashing, Sortierung, Kostenmodelle, Ausführungspläne. Nur anders kombiniert.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "dbd1ea07-d5ca-41a4-9ee2-cdf8ffeda79e",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Rahmenaufgabe (gilt für alle Gruppen)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "846c2cda-c962-42e1-a5fc-917a8137eb96",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Eure Präsentation enthält ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "alle",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " der folgenden Pflichtbausteine:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "efe79304-6e14-48bf-ba1f-be78f6ee1643",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was ist das für ein System? Wer setzt es ein und wofür? Welches Problem war der Auslöser dafür, dass es überhaupt gebaut wurde?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "cc73f78c-b8df-4248-bfb5-841af536c84e",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Brille:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Wie und wo werden die Daten gespeichert?",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "963aceb7-5db6-474c-94ef-c3917f626361",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Ordnet die Speicherung in die Begriffe der Vorlesung ein: Heap, index-organisiert (IOT), Hash-Organisation, B+-Baum, LSM-Baum, Zeilen- vs. Spaltenlayout, In-Memory vs. auf Platte.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "2a25d0d3-e8b8-4736-b26d-3dc3c2360b44",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Zeigt, wie ein Datensatz „aussieht\", wenn er gespeichert ist.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "7b5e42a6-d48c-419f-a689-e195b7eaed44",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Brille:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Wie werden Anfragen bearbeitet?",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "3b00bf62-fccb-4ae7-b983-4232a735d137",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Gibt es einen Optimizer? Wie entsteht der Ausführungsplan (Pipeline aus AO#1)?",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "326c9d5c-a083-4e12-bace-0a54b0bbb34f",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Welche Zugriffspfade existieren, welche nicht – und warum wurde das bewusst so entschieden?",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "d8b6d5a5-56dd-4840-aa71-9dda8d7e03b3",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Wenn das System einen Erklärungsbefehl hat (",
+              "styles": {}
+            },
+            {
+              "type": "text",
+              "text": "EXPLAIN",
+              "styles": {
+                "code": true
+              }
+            },
+            {
+              "type": "text",
+              "text": " oder ein Pendant): zeigt einen echten Plan und lest ihn vor.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "c6155546-9a55-4984-9fde-d4b9fae1af19",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Vergleich mit PostgreSQL:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Euer Referenzsystem ist das PostgreSQL aus dem Unterricht. Genau eine Folie mit dem Profil: ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "„Besser als PostgreSQL bei …, schlechter bei …, weil …\"",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8998ca20-aa36-45ec-ade2-9dc2478fbcc8",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Live-Demo in Docker:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Ihr startet euer System am Präsentationsrechner und führt eine kurze, geübte Demo vor (Regeln siehe unten).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "67d7539b-c772-4c65-b913-f19cedf167dd",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Verständnisfrage:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Bereitet ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "eine",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Frage an die Klasse vor (Folie mit Frage, Antwort auf der Folie danach oder mündlich). Die Frage muss einen PDO- oder AO-Vergleich fordern, kein reines Faktenwissen.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "bcc5e4c6-57dc-4d2e-a548-473399bc0731",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Quellen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Pro Folie Quellenangabe (klein, letzte Zeile). Mindestens ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "eine Primärquelle",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " (offizielle Doku, Paper oder Blog des Herstellers) und eine Sekundärquelle (Buch, seriöser Fachartikel).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "de2e2202-6a0d-4508-9e23-75f39cf4cf39",
+      "type": "quote",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "[!tip] Woran wir euch inhaltlich messen\nEine gute Gruppe sagt nicht ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "„System X ist schnell\"",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ". Eine gute Gruppe sagt ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "„System X speichert die Daten in Spalten und sortiert sie nach dem Primärschlüssel, deshalb …\"",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ". Der Unterschied: Ihr könnt das ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Warum",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " aus PDO/AO ableiten.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ef676aab-7221-4885-8819-508e77d776ac",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Live-Demo in Docker: so läuft's",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "425a062d-f742-4f64-94e0-387911383d0f",
+      "type": "quote",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "[!important] Demo-Regeln\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Mindestinhalt:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " System starten, einen kleinen Datensatz anlegen oder laden, eine typische Abfrage ausführen und ihren Ausführungsplan zeigen (",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "EXPLAIN",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " bzw. das Pendant).\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Geübt, nicht improvisiert:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Ihr habt genau ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "2 bis 3 Minuten",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " für die Demo. Stellt sicher, dass sie in dieser Zeit durchläuft (kleine Datenmengen, vorbereitete Befehle).\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Image vorher ziehen (pull before show):",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Ladet euer Image ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "vor dem Vortrag",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " auf den Präsentationsrechner (",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "docker pull …",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "). Verlasst euch im Klassenraum nicht auf die Internetverbindung.\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Abgabe:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Alle Docker- und Shell-Befehle stehen in eurer Datei ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "G<Nummer>-demo.sh",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ", damit ihr sie am Präsentationstag nur abtippen bzw. mittels ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "bash G<Nummer>-demo.sh",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " ablaufen lassen könnt.\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Plan B:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Screenshots der Demo-Befehle und -Pläne liegen als Bild in eurem Vault-Folien. Falls Docker am Vortragstag streikt, läuft die Demo über die Screenshots (mit Punktabzug nur wenn die Vorbereitung fehlt, nicht wenn die Technik versagt).\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Ressourcen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Plant mit rund 2 GB RAM für den Container. Wenn euer Laptop es nicht hergibt, sagt mir vorher Bescheid, dann präsentiert ihr am Lehrer-Rechner.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "92d06aa7-4483-4e42-be10-6507869ab9c2",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Für jede Gruppe steht unten eine ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Start-Vorlage",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ". Wenn ein Start-Befehl bei euch nicht funktioniert (Versionen ändern sich), hilft die offizielle Doku eures Systems, das gehört zur Recherche dazu. Verwendet ein compose-File (",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "docker compose up",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ") oder ein eigenes Dockerfile, wenn es eure Demo einfacher macht.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "bd17e21c-1a18-4adf-802e-1ad17f4329ac",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Vorgaben zur Präsentation",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a2c0b95b-7a19-4316-a837-5f79d315e795",
+      "type": "table",
+      "props": {
+        "textColor": "default"
+      },
+      "content": {
+        "type": "tableContent",
+        "columnWidths": [
+          null,
+          null
+        ],
+        "headerRows": 1,
+        "rows": [
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vorgabe",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wert",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Folienanzahl",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "8 bis 12 Folien",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vortragsdauer",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ca. 8 Minuten inkl. Demo (harter Rahmen: 10, dann Ende)",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Titelblatt",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thema, Gruppennummer, Namen",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Reihenfolge",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kontext → PDO → AO → Vergleich → Demo → Verständnisfrage → Quellen",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "children": []
+    },
+    {
+      "id": "b340ea5b-ca40-4c90-a91f-32a731bdb961",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Marp in Obsidian: Kurzanleitung",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c1584f4f-b49e-475d-ae65-1748bfb5401e",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Plugin installieren:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Einstellungen → Community plugins → Browse → „Marp\" suchen, installieren, aktivieren.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6a83139d-d6c4-41b0-9531-ac405c542a65",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Neue Datei",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " anlegen (Name siehe Abgabe oben) und das folgende Frontmatter kopieren:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "3f8839cd-0d0a-4562-ad75-91ac8800ace2",
+      "type": "codeBlock",
+      "props": {
+        "language": "markdown",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "---\nmarp: true\ntheme: gaia\npaginate: true\nsize: 16:9\n---\n\n<!-- _class: lead -->\n\n# Tabellen als B⁺-Baum: MySQL/InnoDB\n\n**Gruppe 9 · Vorname Nachname, Vorname Nachname**\n\n---\n\n# Kontext\n\n- …\n\n---\n\n# Wie InnoDB speichert (PDO)\n\n- …",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "9a645036-b3c1-49f6-990d-d6d912b75d9b",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Regeln:",
+          "styles": {
+            "bold": true
+          }
+        }
+      ],
+      "children": [
+        {
+          "id": "5d51f288-4d13-4816-ad9e-2d1a3a312ebc",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "---",
+              "styles": {
+                "code": true
+              }
+            },
+            {
+              "type": "text",
+              "text": " in eigener Zeile = neue Folie.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "7bdb3091-d1b5-41f3-bebf-a3d5c87e9b8e",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Text als Stichpunkte, nur ein Hauptargument pro Folie.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "a1aca98a-67c9-41c2-b6de-7071dd5f8d72",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Kommentare ",
+              "styles": {}
+            },
+            {
+              "type": "text",
+              "text": "<!-- … -->",
+              "styles": {
+                "code": true
+              }
+            },
+            {
+              "type": "text",
+              "text": " sind Sprechernotizen, euer Publikum sieht sie nicht. Nutzt sie für euren Vortragstext.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "6541e732-5758-4070-8c15-7e4b6bc5a0da",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Bilder: eigene Zeichnungen (z. B. Excalidraw als PNG exportiert) oder freie Quellen mit Angabe.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "2383d225-b4f2-4414-950a-404cabb1db7d",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Vorschau:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Marp-Symbol oben rechts oder Befehlspalette → „Marp: Open preview\". Prüft dort Folienzahl und Schriftgröße.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "1ec79aa2-30ae-4953-a3d9-734dca287fa1",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Export als Backup:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Befehlspalette → Marp → ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Export als PDF",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d898eada-f791-4a2a-9441-547902d265d1",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppeneinteilung",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e390ed22-7f73-43d5-9599-81e7d8aa6db6",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Die zwölf Themen vergeben wir im Unterricht nach dem Zufallsprinzip (Wünsche bis heute Abend, dann wird der Rest ausgelost).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "577072f1-9375-4768-9cc0-55b3f2898a5f",
+      "type": "table",
+      "props": {
+        "textColor": "default"
+      },
+      "content": {
+        "type": "tableContent",
+        "columnWidths": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "headerRows": 1,
+        "rows": [
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gruppe",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Technologie",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Name 1",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Name 2",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "MongoDB (Dokumentenmodell)",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "David",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tobias",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Apache Cassandra (Wide Column)",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Nik",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Matthias",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "3",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Redis (Key-Value, In-Memory)",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Emilio",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Noah",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "4",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Neo4j (Graphdatenbank)",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samuel",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Julian",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "5",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "CockroachDB (NewSQL)",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mario",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Luca",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "6",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "DuckDB (embedded OLAP)",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Philipp",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lea",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "7",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ClickHouse (OLAP-Spaltenformat)",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jonas",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tim",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "8",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SQLite (embedded)",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samuel",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Yuma",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "9",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "MySQL / InnoDB",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Diego",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Anes",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "10",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "RocksDB, MyRocks und LSM-Bäume",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Caro",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Natalie",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "11",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vektor-Datenbanken & pgvector",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Matteo",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leonhard",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "12",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Cloud-DWH & Lakehouse (Snowflake, Iceberg)",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Oscar",
+                    "styles": {}
+                  }
+                ],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              },
+              {
+                "type": "tableCell",
+                "content": [],
+                "props": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "backgroundColor": "default",
+                  "textColor": "default",
+                  "textAlignment": "left"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "children": []
+    },
+    {
+      "id": "5baa89da-0f34-46cd-8f76-8b4b8b00c5d0",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 1,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Eure konkreten Aufgabenstellungen",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "32fb10fa-0f9c-470a-9e0d-52f529efb369",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Jede Gruppe bearbeitet die ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Rahmenaufgabe",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " von oben mit den folgenden themenspezifischen Leitfragen. Danach steht eure ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Docker-Demo",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Sie ist so angelegt, dass sie genau die Punkte zeigt, die ihr in PDO/AO erklärt habt.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "1efd52da-3d38-4e2d-92a5-38b25e465f38",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 1: MongoDB – Dokumente im Karteikasten",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "4446e74c-c356-4227-9885-4ddb9b3de0c5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " MongoDB ist die verbreitetste Dokumentendatenbank. Was ist ein „Dokument\" im Unterschied zu einer relationalen Zeile, und für welche Anwendungsfälle wurde das Modell gebaut?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f90005b8-2617-4f09-abd6-9966eb78417d",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was ist BSON und warum nicht einfach JSON? Auf welchem Medium liegen die Daten? Die Storage-Engine WiredTiger speichert in einem B+-Baum: Wodurch wird die Sortierreihenfolge bestimmt? Wie sieht das Update eines Dokuments physisch aus?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "3295ed35-1f48-4e6a-8228-4c29421aee87",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Wie funktioniert ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "explain()",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "? Was ist die Aggregation Pipeline, und wie wirkt sie im Vergleich zum Operator-Baum aus AO#1? Die „ESR-Regel\" (Equality, Sort, Range) für Index-Design: Warum genau diese Reihenfolge?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c49e0738-63da-4648-a53b-26865c28c354",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Startet MongoDB und vergleicht die Kennzahl ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "totalDocsExamined",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " mit ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "rows",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " aus ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "EXPLAIN ANALYZE",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " im Unterricht: Was entspricht wem?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "fd7769cb-b8f5-4a9c-ac44-683b54dd2a37",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull mongo:7\ndocker run -d --name g01-mongo -p 27017:27017 mongo:7\ndocker exec -it g01-mongo mongosh\n# dann in der Shell:\n# use kurse\n# db.filme.insertMany([{titel:\"Matrix\", jahr:1999}, {titel:\"Inception\", jahr:2010}])\n# db.filme.find({titel:\"Matrix\"}).explain(\"executionStats\")\n# db.filme.createIndex({titel:1})\n# selbiges explain nochmal: vor/nach Index vergleichen",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "09854371-3a38-4480-b90e-5e74d07e0c0c",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 2: Apache Cassandra – schreiben ohne Reue, lesen mit Regeln",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "16ae409c-8568-4af1-85a9-bf60f2730628",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Cassandra wurde für sehr hohe, verteilte Schreiblasten gebaut (ursprünglich Facebook-Inbox). Warum kauft man sich das mit strengen Regeln fürs Lesen?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "dc399680-7a56-4263-bf30-d9c0fc0d0f56",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was ist der Partition Key und warum ist die ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Hash-Organisation",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " hier kein Detail, sondern das Grundprinzip? Was sind Memtable und SSTables (Zusammenschau mit Gruppe 10)? Welche Rolle spielt der Commit-Log?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e4f5ca65-5f3f-4295-ba0c-b7304b64b3d7",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Warum darf eine Abfrage ohne Partition Key nicht ausgeführt werden? Wo wäre dort der Optimizer, den ihr aus AO kennt? Was leisten Sekundär-Indizes und Materialized Views, und warum sind sie in Cassandra oft die falsche Wahl?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "01d50fc9-e9a0-4657-a320-af0cd63b82fa",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Zeigt live, welche Abfrage ohne Partition Key passiert (Fehlermeldung!) und warum das kein „Bug\" ist, sondern eine konsequente Design-Entscheidung.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c7291f98-c81f-4bd2-b9bd-dbd5a219d517",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull cassandra:5.0\ndocker run -d --name g02-cassandra -p 9042:9042 cassandra:5.0\n# Cassandra braucht ~1 Minute, bis es einsatzbereit ist:\ndocker exec -it g02-cassandra cqlsh\n# dann in der Shell:\n# CREATE KEYSPACE kurse WITH replication = {'class':'SimpleStrategy','replication_factor':1};\n# CREATE TABLE kurse.nachrichten (nutzer text, zeit timestamp, text text, PRIMARY KEY (nutzer, zeit));\n# INSERT INTO kurse.nachrichten (nutzer, zeit, text) VALUES ('lisa', toTimestamp(now()), 'hallo');\n# SELECT * FROM kurse.nachrichten WHERE nutzer='lisa';      -- ok\n# SELECT * FROM kurse.nachrichten WHERE text LIKE 'hallo';  -- nicht erlaubt: warum?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "bc26ce06-3f7d-4d4a-8970-fa4b658e4a1f",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 3: Redis – Datenbank ganz ohne SELECT",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "1280cb66-b245-4e32-adb9-76f233c1aae1",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Redis ist ein In-Memory-Datenstruktur-Store und wird überall eingesetzt (Caching, Sessions, Warteschlangen). Aber: Ist das überhaupt eine Datenbank?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d5e1a010-2157-48e6-a31b-f052b370d122",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Welche Datenstrukturen bietet Redis (String, List, Set, Sorted Set, Hash) und wie sind sie im Speicher organisiert? Wie kann ein Sorted Set gleichzeitig sortiert sein, ohne B+-Baum? Wie bleiben Daten trotzdem persistent (RDB-Snapshots, Append-Only File)?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b955bb87-5782-4280-a8fb-185af4a4c975",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Redis hat keinen Optimizer und keine Pläne. Was tritt an diese Stelle? Hinweis: Kosten pro Befehl (z. B. O(n) für KEYS über eine Million Schlüssel). Was bedeutet diese Abwesenheit für euch als Entwicklungsteam im Vergleich zu PostgreSQL, wo ihr euch auf den Optimizer verlasst?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6f9af82e-35fe-40b4-894f-601837087a44",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Füllt eine Sorted Set mit tausend Elementen, zeigt einen teuren Befehl und einen ihr daran messbaren Effekt.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c212b9c7-7494-40f6-bb08-72d829e157b0",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull redis:7\ndocker run -d --name g03-redis -p 6379:6379 redis:7\ndocker exec -it g03-redis redis-cli\n# dann in der Shell (tafeln mit Copy-Paste aus der demo.sh):\n# for i in $(seq 1 5000); do ZADD rangliste $((RANDOM % 10000)) \"nutzer:$i\"; done\n# ZCARD rangliste\n# ZRANGE rangliste 0 5 WITHSCORES          -- Top 6\n# KEYS *                                    -- O(n): was bemerkt ihr?\n# redis-cli --latency  (in zweitem Terminal)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b624350c-e190-46e2-b7c7-134cc83d8a81",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 4: Neo4j – wenn die Beziehung selbst der Datensatz ist",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b1053ba1-fee5-4f5e-92b4-173150e47124",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Graphdatenbanken modellieren nicht Tabellen, sondern Knoten und Kanten. Warum ist „Wer kennt wen über höchstens drei Ecken?\" in einem relationalen System aufwändig und in Neo4j trivial?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2fbfe6e8-4afd-478d-88bf-ab99981d162f",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was ist „index-free adjacency\"? Wo „wohnt\" eine Kante physisch, und wer muss bei einem Traversierungsschritt etwas ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "nachschlagen",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " im Vergleich zum Join über eine Fremdschlüsselspalte in PostgreSQL?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b12b0c76-dae4-4dbd-baa7-20e8755aa22b",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Neo4j hat einen Cost-Based-Planner für Cypher. Welches „Kostenmodell\" zeigt er an (DB Hits)? Vergleicht die Planausgabe mit dem Operator-Baum aus AO#1 und benennt Operatoren wieder.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "cd5c25a2-41ac-444d-a16a-46b3a8d9f41b",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Baut einen Mini-Social-Graph, zeigt zwei Abfragen einmal als ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "EXPLAIN",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "-Plan und einmal als ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "PROFILE",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "-Ausführung mit DB Hits. Ordnet die Planausgabe den Operator-Baumen aus AO#1 zu.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f05aa020-f576-4d05-8ee8-27650e021f9c",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull neo4j:5\ndocker run -d --name g04-neo4j -p 7474:7474 -p 7687:7687 -e NEO4J_AUTH=none neo4j:5\n# Browser oeffnen: http://localhost:7474\n# Beispieldaten (im Browser eingeben):\n# CREATE (a:Person {name:'Anna'})-[:KENNT]->(b:Person {name:'Ben'})-[:KENNT]->(c:Person {name:'Cem'}), (a)-[:KENNT]->(c)\n# EXPLAIN MATCH (p:Person {name:'Anna'})-[:KENNT*1..3]->(f:Person) RETURN f.name\n# PROFILE MATCH (p:Person {name:'Anna'})-[:KENNT]->(f:Person) RETURN f.name",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ddf022e9-2bde-403a-9f4b-f109585e7b6c",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 5: CockroachDB – PostgreSQL-Syntax im Cluster",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "112e668b-0e89-4d57-aa9c-c0a711613dfd",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " NewSQL will die Stärke von relationalen SQL-Datenbanken mit der skalierbaren Verteilung von NoSQL-Systemen kombinieren. CockroachDB verhält sich an der SQL-Oberfläche fast wie PostgreSQL.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8d670cd3-0342-4625-8cdd-930bc1b162bf",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Wie werden Daten auf mehrere Rechner verteilt (Ranges, selbstständiges Sharding)? Wie bleibt das System bei einem Knotenausfall verfügbar (Raft-Konsens)? Was ist Pebble, die Storage-Engine von CockroachDB, und warum ist sie ein LSM-Baum statt eines B+-Baums?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "03d6073e-ae60-4687-9927-76bfc6db538f",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was passiert mit einem Join, wenn beide Tabellen auf verschiedenen Knoten liegen? Was muss der verteilte Optimizer zusätzlich entscheiden, was in PostgreSQL nicht anfällt (datenverschiebende Operatoren)?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "4ad7257c-66da-4746-97cf-7f8d1a203766",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Führt eine ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "EXPLAIN",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "-Abfrage aus und vergleicht die Ausgabe mit dem, was ihr aus 02_pdo kennt: Bis wohin ist sie identisch, wo erscheinen neue Begriffe?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ffd33832-96a7-4936-a47e-7d412690cb56",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull cockroachdb/cockroach:latest-v24.3\ndocker run -d --name g05-crdb -p 26257:26257 -p 8080:8080 cockroachdb/cockroach:latest-v24.3 start-single-node --insecure\ndocker exec -it g05-crdb cockroach sql --insecure\n# dann in der Shell:\n# CREATE TABLE filme (id INT PRIMARY KEY, titel STRING, jahr INT);\n# INSERT INTO filme VALUES (1,'Matrix',1999), (2,'Inception',2010);\n# EXPLAIN SELECT titel FROM filme WHERE jahr = 1999;\n# EXPLAIN SELECT * FROM filme WHERE titel = 'Matrix';\n# Web-UI: http://localhost:8080  (im Insecure-Modus ohne Anmeldung zugänglich, nur ansehen)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "87e7420a-5252-4702-8985-dc42b01d69b3",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 6: DuckDB – SQLite für Analytik",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f6e1c30b-b69e-4ace-a880-105990e6c7bc",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " DuckDB ist eingebettet wie SQLite (beide stammen von derselben Universität), aber auf Analytik-Auswertungen (Aggregation, Joins über große Datenmengen) optimiert. Warum dieser Unterschied im Design steckt, beschreibt ihr mit der PDO-Brille.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "05ee934f-427e-4b9e-93d2-4ac2ffdfab67",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was unterscheidet ein Zeilen- von einem Spaltenlayout auf Ebene der Seiten? Was bedeutet „vectorized execution\" im Vergleich zur Iterator-Pipeline aus AO#1? Warum kostet eine Aggregation über eine Spalte im Spaltenformat so viel weniger Leseaufwand als im Zeilenformat?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "9927bc15-aee5-4c9b-9d91-f544baadcf2d",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was bedeutet der Spaltenzugriff für die Kostenabschätzung (I/O vs. CPU, Anteile in Relation zueinander)? Wie funktionieren ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "EXPLAIN",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " und ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "EXPLAIN ANALYZE",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " in DuckDB? Lässt sich die Planausgabe wie in 02_pdo lesen?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "47e7d5ab-91c0-4b35-ae62-fa387911114b",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Führt dieselbe Group-By-Abfrage in DuckDB und in SQLite aus (siehe unten), messt und erklärt den Unterschied mit PDO-Argumenten.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "eae9fc4a-4141-4101-bc10-6898517994b5",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull python:3.12-slim\ndocker run -it --rm -v \"$(pwd)\":/data python:3.12-slim bash\n# dann im Container:\n# pip install duckdb\n# python - <<'EOF'\n# import duckdb, sqlite3\n# print(\"erzeuge Testdaten und schreibe CSV nach /data ...\")\n# duckdb.sql(\"COPY (SELECT range AS id, (range*17)%100 AS kat FROM range(1000000)) TO '/data/d.csv' (HEADER)\")\n# r = duckdb.sql(\"SELECT kat, count(*) FROM '/data/d.csv' GROUP BY kat\").fetchall()\n# print(\"duckdb fertig:\", r[:3])\n# EOF\n# Fuer den SQLite-Vergleich: gleiche CSV ueber Pythons sqlite3-Modul einlesen und die Group-By-Abfrage messen;\nexit",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "80868ff2-3e79-488b-a923-6d4e60b2b91b",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 7: ClickHouse – Data-Warehouse-Spalten ohne Index-Baum",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "3f2ac232-f5b5-4742-9967-ebe9c1143745",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " ClickHouse ist eine besonders schnelle OLAP-Datenbank. Ihre Kernidee: sortierte, komprimierte Spalten und ein primärer \"Index\", der nur ein Wert pro Datenblock speichert.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "28b7704f-e71f-478f-9161-990560a05bf8",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was ist die MergeTree-Engine? Warum gibt es ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "keinen B+-Baum",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " als Primärindex, sondern einen „sparse primary index\"? Wie viele Ebenen spart ein „Index\", der nur einen Wert pro „Granule\" (z. B. alle 8192 Zeilen) speichert, gegenüber einem B+-Baum?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "32efe059-c44f-4a37-82d0-e1cc935767c5",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was ist Pruning im Vergleich zu Index-Scan und Bitmap-Scan aus 02_pdo? Was leisten Skip-Indexes und Materialized Views? Was ist der Unterschied zur klassischen View?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "378b5938-96a7-43a6-a31f-fa5b50a0e87d",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Zeigt einmal den ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "EXPLAIN",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "-Plan für eine Filterabfrage mit gutem Sortierschlüssel und einmal ohne, und zeigt den Pruning-Effekt an ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "rows_read",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "3bbeafc5-af78-4d34-b772-b89e82022c9c",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull clickhouse/clickhouse-server:24.8\ndocker run -d --name g07-ch -p 8123:8123 --ulimit nofile=262144:262144 clickhouse/clickhouse-server:24.8\ndocker exec -it g07-ch clickhouse-client\n# dann in der Shell:\n# CREATE TABLE filme (id UInt32, titel String, jahr UInt16) ENGINE = MergeTree ORDER BY jahr;\n# INSERT INTO filme SELECT number, 'Film ' || number, 1950 + (number % 70) FROM numbers(1000000);\n# EXPLAIN SELECT count(*) FROM filme WHERE jahr = 1999;         -- Plan zeigt: es werden nur Granules mit jahr=1999 gelesen\n# SELECT count(*) FROM filme WHERE jahr = 1999;\n# Vergleich: gleiche Tabelle ORDER BY id und die Abfrage nochmal",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "26a74c65-af12-4a1d-b4b5-3917c75d1088",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 8: SQLite – Datenbank ohne Server",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "77bd1624-24df-422e-8423-fdd8b8e208d7",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " SQLite ist die meistverbreitete Datenbank der Welt, läuft auf jedem Smartphone und Browser (auch bei uns im Unterricht als WASM-Variante). Sie zeigt: Eine Datenbank braucht keinen Server.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "58c368ec-b11f-4a9b-a5ad-4c922f146bad",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Die ganze Datenbank ist ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "eine Datei",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Wie sind die Seiten organisiert (Standard: 4096 B)? Wo steht der B+-Baum pro Tabelle und pro Index? Wie funktioniert Transaktionssicherheit in einer einzigen Datei (Rollback-Journal vs. WAL)?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "fcc3a401-71c9-46d3-9a28-d732fb2fc79b",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was steckt im Query-Planner? Mit ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "ANALYZE",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " sammelt SQLite Zeilenzahlen für die Planwahl – stellt ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "EXPLAIN QUERY PLAN",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " davor und danach gegenüber: Was verändert sich? Zusätzlich: SQLite setzte jahrelang auf genau eine Join-Technik – schaut in der Doku nach, warum das für ihre Einsatzfälle (eingebettet, kleine Datenmengen) gereicht hat. Die Join-Techniken selbst behandeln wir danach in AO#2 – ihr dürft sie hier vorwegnehmend kurz vorstellen.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f0b435d0-3444-4af5-a03b-7d49583370d3",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Zeigt ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "PRAGMA page_size",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ", einen Plan via ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "EXPLAIN QUERY PLAN",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " vor und nach ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "ANALYZE",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " und vergleicht die Auskunft mit ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "EXPLAIN",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " in PostgreSQL: was fehlt (Kostenschätzung!) und was sagt euch das über die Qualität der Planwahl?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "96e9d11f-fbb3-4d43-bb40-4e011ab69b99",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull alpine:3.20\ndocker run -it --rm -v \"$(pwd)\":/data alpine:3.20 sh\n# dann im Container:\n# apk add sqlite\n# sqlite3 /data/demo.db\n# .dbinfo\n# CREATE TABLE filme (id INTEGER PRIMARY KEY, titel TEXT);\n# INSERT INTO filme (titel) VALUES ('Matrix'), ('Inception');\n# EXPLAIN QUERY PLAN SELECT * FROM filme WHERE titel='Matrix';\n# ANALYZE;\n# EXPLAIN QUERY PLAN SELECT * FROM filme WHERE titel='Matrix';  -- was hat sich geaendert?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d2b67c5d-6fbe-4bde-bfb6-96da983131cb",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 9: MySQL / InnoDB – der B+-Baum als Tabelle",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "25367f9f-ad47-4c12-a167-24bdde21e648",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " InnoDB organisiert die Tabelle selbst als B+-Baum (index-organized table, IOT). PostgreSQL speichert dagegen ein Heap und legt Indexe darüber. Diese Gegenüberstellung ist der kompakteste Vergleich im ganzen Projekt.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a83eafe4-4d73-4c77-b0dc-8c4e4597b905",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was heißt index-organisiert konkret: Wo wohnt der Datensatz, worauf zeigt ein Sekundärindex (warum speichert er den Primärschlüssel statt einer Row-ID)? Was geschieht mit den Sekundärindizes bei sehr breiten Primärschlüsseln?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5d54846f-3735-4e50-bae2-580d52a9f280",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was zeigt ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "EXPLAIN FORMAT=TREE",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " in MySQL 8? Was ist ein „Covering Index\" (Index-Only-Scan) und warum zahlt er sich in InnoDB besonders aus? Warum kann ein Sekundärindex-Lookup in InnoDB teurer sein als ein Seq Scan (Doppelsprung über den Primärschlüssel)?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "204a572b-f08a-4971-adb7-42aec86128a8",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Legt dieselbe Tabelle und Abfrage in MySQL und in PostgreSQL (dvd-rental) an und stellt die Pläne gegenüber. Erklärt jeden Unterschied aus der PDO-Sicht (IOT vs. Heap).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6c20c639-f2a6-4b44-b329-aacd6e1c8419",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull mysql:8\ndocker run -d --name g09-mysql -e MYSQL_ROOT_PASSWORD=dbi5 -p 3306:3306 mysql:8\n# Startup dauert ~30 Sekunden:\ndocker exec -it g09-mysql mysql -uroot -pdbi5\n# dann in der Shell:\n# CREATE DATABASE d; USE d;\n# CREATE TABLE filme (id INT PRIMARY KEY, titel VARCHAR(40), KEY (titel));\n# INSERT INTO filme VALUES (1,'Matrix'), (2,'Inception');\n# EXPLAIN FORMAT=TREE SELECT * FROM filme WHERE titel='Matrix';\n# EXPLAIN FORMAT=TREE SELECT id FROM filme WHERE titel LIKE 'M%';  -- covering index?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "45150065-af2c-4218-94b6-972dd3a5adac",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 10: RocksDB, MyRocks und LSM-Bäume – Schreiben um (Lese-)Kosten",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5a288ef5-c7ba-4e16-87db-98e86d41da91",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Der LSM-Baum ist die wichtigste Alternative zum B+-Baum: RocksDB ist die Storage-Engine von CockroachDB (Gruppe 5), MyRocks ist ein in MariaDB enthaltenes Plugin, damit ihr beide Bauarten im selben DBMS vergleichen könnt.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d80f6754-0044-4b5b-8a2d-f38776b037b3",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Wie läuft ein Insert im B+-Baum ab, wie im LSM-Baum (Memtable, SSTables)? Was ist Compaction und warum läuft sie im Hintergrund? Was tun Bloom-Filter, um das Lesen zu retten? Erklärt Read-, Write- und Space-Amplification.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5a708607-d6c6-4fa9-a8c7-280d0307b4b5",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was bedeutet ein LSM-Treiber für einen Lookup über die Tabelle (Kette mehrerer SSTables)? Wann gewinnt der B+-Baum beim Point-Read, wann der LSM beim Schreibdurchsatz? Was bedeutet das für die Frage, welche Aufwendungen der Planner in einem LSM-System überhaupt einkalkulieren kann?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "3da1d761-52ba-4c8d-8e37-c576b849bbce",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Zeigt dieselbe Tabelle einmal in InnoDB (B+-Baum), einmal in MyRocks (LSM): vergleicht die Dateien auf der Platte (.ibd-Dateien vs. SST-Dateien) und interpretiert die Dateistruktur.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "82c80b38-90da-480c-b3b2-3bae77d2e191",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull mariadb:10.11\ndocker run -d --name g10-maria -e MARIADB_ROOT_PASSWORD=dbi5 mariadb:10.11\ndocker exec -it g10-maria mariadb -uroot -pdbi5\n# dann in der Shell:\n# INSTALL SONAME 'ha_rocksdb';\n# CREATE DATABASE d; USE d;\n# CREATE TABLE films_innodb (id INT PRIMARY KEY, titel VARCHAR(40)) ENGINE=INNODB;\n# CREATE TABLE films_myrocks (id INT PRIMARY KEY, titel VARCHAR(40)) ENGINE=ROCKSDB;\n# INSERT INTO films_innodb WITH RECURSIVE seq(n) AS (SELECT 1 UNION ALL SELECT n+1 FROM seq WHERE n < 100000) SELECT n, CONCAT('F', n) FROM seq;\n# INSERT INTO films_myrocks SELECT id, titel FROM films_innodb;\n# in zweitem Terminal: docker exec -it g10-maria ls -la /var/lib/mysql/d/\n#  -> Wo liegen .ibd-Dateien, wo SST-Dateien (.sst)?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d8c887a5-8caa-4e0d-ac8d-74bd8c2767fa",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 11: Vektor-Datenbanken und pgvector – wenn KI auf Indexstrukturen trifft",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "0e443fd0-f48f-4bf0-9e74-c7a558580b6a",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Jede Anwendung mit LLMs, Empfehlungssystemen oder Bildersuche braucht Ähnlichkeitssuche. PostgreSQL kann das mit der Erweiterung pgvector, daneben gibt es spezialisierte Vektor-Datenbanken (z. B. Pinecone, Qdrant, Weaviate).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "15c9fde7-fed9-4435-948c-966a665c0c2b",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Warum versagt ein B+-Baum für die Frage „finde die 5 ähnlichsten Vektoren\"? (Was heißt „Ordnung\" bei hochdimensionalen Daten, an denen kein Vergleich existiert?) Wie funktioniert HNSW als Indexstruktur: Was ist dort ein „Knoten\", was eine „Kante\", und wie navigiert die Suche?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f48c61a8-5aaf-4b82-af37-3800bba7d441",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was bedeutet „approximate nearest neighbor\" (ANN): Warum kauft man sich Geschwindigkeit mit Recall (Trefferquote)? Woran erkennt ihr in EXPLAIN, ob der Index genutzt wird einer ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "ORDER BY embedding <=> … LIMIT 5",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "-Abfrage?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2a45a8e7-be90-41e2-bd82-66a0dfdc765e",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Zeigt dieselbe Ähnlichkeitsabfrage mit und ohne HNSW-Index, im Plan und in der Laufzeit gemessen.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ddadd39b-7dc3-4e0c-af5a-626dbf8ebfcc",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull pgvector/pgvector:pg17\ndocker run -d --name g11-pg -e POSTGRES_PASSWORD=dbi5 -p 5432:5432 pgvector/pgvector:pg17\ndocker exec -it g11-pg psql -U postgres\n# dann in der Shell:\n# CREATE EXTENSION vector;\n# CREATE TABLE eintraege (id serial PRIMARY KEY, embedding vector(3));\n# INSERT INTO eintraege (embedding) SELECT ('[' || random() || ',' || random() || ',' || random() || ']')::vector FROM generate_series(1,100000);\n# CREATE INDEX ON eintraege USING hnsw (embedding vector_cosine_ops);\n# EXPLAIN ANALYZE SELECT id FROM eintraege ORDER BY embedding <=> '[0.5,0.5,0.5]' LIMIT 5;\n# Index weglassen (DROP INDEX ...) und gleiches EXPLAIN ANALYZE: Seq Scan vs. HNSW",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "9d31df6f-9b7c-43fd-b225-01a67be781d1",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gruppe 12: Cloud-DWH und Lakehouse (Snowflake, Apache Iceberg)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e88cd8b8-67b0-48d5-8ae2-004cb2262abf",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontext:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Snowflake ist der Prototyp eines Cloud-Data-Warehouses und das Präludium auf unser Sommersemester DWH. Selbst betreiben kann man es nicht, aber die mechanischen Kernideen (spaltenweise Mikro-Partitionen mit Min/Max-Angaben je Partition, Pruning statt B+-Bäume) funktionieren genauso in offenen Formaten wie Apache Iceberg und Parquet, und genau diese demonstriert ihr lokal.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "414e7f06-60e9-45f4-9a23-a685cb8898ea",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "PDO-Leitfragen (Recherche zu Snowflake):",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Was sind Mikro-Partitionen und wie sind sie intern organisiert (spaltenweise, komprimiert, Min/Max-Metadaten)? Warum gibt es ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "keine klassischen Sekundärindizes",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "? Vergleicht die Min/Max-Metadaten mit den ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "rows",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "-Schätzungen im EXPLAIN aus 02_pdo: Worauf stützen sich beide?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7176ffe2-44c6-438f-88a9-0367658244ba",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "AO-Leitfragen (lokal in DuckDB vorzuführen):",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Wie funktioniert Pruning anhand von Datei-Metadaten? Vergleicht das mit Bitmap-Scan und Pruning in 02_pdo: was ist ähnlich, was anders? Ordnet Clustering Keys und Materialized Views den Tuning-Ebenen aus 02_pdo zu.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a2d1db4b-a344-44eb-828f-561aeee4af70",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Demo:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Ihr schreibt mit DuckDB partitionierte Parquet-Dateien (= Miniatur-Mikro-Partitionen) und zeigt, dass eine gefilterte Abfrage nur einen Bruchteil der Dateien liest. Snowflakes Mikro-Partitionen sind dasselbe Prinzip in groß.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6ddff9fb-9d4a-4d5c-acb3-909823d0ebfa",
+      "type": "codeBlock",
+      "props": {
+        "language": "bash",
+        "copyable": true
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "docker pull python:3.12-slim\ndocker run -it --rm -v \"$(pwd)\":/data python:3.12-slim bash\n# pip install duckdb\n# python - <<'EOF'\n# import duckdb\n# con = duckdb.connect()\n# con.sql(\"INSTALL parquet; LOAD parquet;\")\n# con.sql(\"COPY (SELECT range AS id, 1950 + (range % 70) AS jahr FROM range(3000000)) TO '/data/filme' (FORMAT parquet, PARTITION_BY (jahr))\")\n# print(con.sql(\"SELECT count(*) FROM read_parquet('/data/filme/**/*.parquet')\").fetchall())\n# print(con.sql(\"SELECT count(*) FROM read_parquet('/data/filme/jahr=1999/*.parquet')\").fetchall())\n# ls der Partitionen in der Shell ansehen: nur 1 von 70 Dateien relevant\n# EOF\nexit",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "652e4e85-459a-46b2-ad24-3bd6a766cd14",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Nützliche Quellen für alle",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "cac00519-b955-4ba2-9a78-7a30c1badfbc",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Petrov, „Database Internals\" (2019)",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " – unser Leitbuch: Kapitel zu Speicher-Engines, B+-Bäumen und LSM-Bäumen.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6bdcfc6c-77d0-43cf-8420-b653d91b8dc5",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Silberschatz et al. (2020)",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " – Teil „Query Processing / Query Optimization\". Kemper/Eickler widmen der Anfrageoptimierung ein eigenes Kapitel.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "54ffefc6-545f-4bc6-8470-9babf7ceb23e",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Dokumentation eures Systems",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " – Pflicht (Primärquelle), gerade auch die Docker-Hub-Seite des Images und die Reference-Seiten (EXPLAIN, Storage-Engine).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e923d45f-aa6a-4bc5-b564-fbc328bb9915",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Hersteller-Blogs und -Papers – erlaubt als Sekundärquelle, wenn ihr sie kritisch lest.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a35d4278-3263-4bc7-8a87-2162d86b5662",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Die Start-Befehle der Live-Demos stammen aus den Beschreibungen der offiziellen Images auf Docker Hub. Wenn ein Befehl bei euch nicht funktioniert, ist die Image-Beschreibung eure erste Anlaufstelle.",
+          "styles": {}
+        }
+      ],
       "children": []
     }
   ]
