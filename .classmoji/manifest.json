@@ -1,0 +1,20 @@
+{
+  "repositories": {
+    "vault-aktuelle-modelle": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "vault-aktuelle-modelle": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [
+      "anleitung-aktuelle-modelle"
+    ],
+    "slides": []
+  }
+}
